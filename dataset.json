@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant dataset spanning the Chattanooga (Metro), TN-GA metropolitan area including Chattanooga. Captures the competitive landscape across city boundaries within a mid-size metropolitan dining market. Filtered by the Restaurants category group with business profiles, ratings, reviews, and competitive metrics. Refreshed weekly.",
+  "config_name": "All Restaurants in Chattanooga (Metro), TN-GA, US",
+  "export_job_id": "a5543909-5088-456a-bc2b-d196279e0005",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 159236,
+  "location_name": "Chattanooga, TN-GA",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-chattanooga-metro-tn-ga-us-sample-159236",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/159236/beamstation_159236_restaurants-us-chattanoogatnga_SAMPLE_DIST.csv",
+  "sample_pct": 9.94,
+  "sample_records": 102,
+  "sample_sha256": "ac01b20012a1fc23aca7a0bbe9fececa7c95ea5fb1a63841287e4f691d700026",
+  "sample_size_bytes": 404426,
+  "total_records": 1026,
+  "updated_at": "2026-04-14T14:07:16.235027+00:00"
+}
