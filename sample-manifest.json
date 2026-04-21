@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a5543909-5088-456a-bc2b-d196279e0005",
+  "export_job_id": "faba5a93-de54-4172-bc83-160898c66d20",
   "id_short": 159236,
-  "published_at": "2026-04-17T07:40:29Z",
+  "published_at": "2026-04-21T19:06:02Z",
   "repo_name": "all-restaurants-in-chattanooga-metro-tn-ga-us-sample-159236",
   "sample_asset_name": "beamstation_159236_restaurants-us-chattanoogatnga_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/159236/beamstation_159236_restaurants-us-chattanoogatnga_SAMPLE_DIST.csv",
-  "sample_records": 102,
-  "sample_sha256": "ac01b20012a1fc23aca7a0bbe9fececa7c95ea5fb1a63841287e4f691d700026",
-  "sample_size_bytes": 404426,
-  "total_records": 1026
+  "sample_records": 129,
+  "sample_sha256": "f465712463d429770e0676763ea2639bc4e4b214af5f856177ba01af3895f659",
+  "sample_size_bytes": 496998,
+  "total_records": 1294
 }
