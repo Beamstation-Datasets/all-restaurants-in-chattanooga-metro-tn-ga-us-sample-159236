@@ -1,6 +1,6 @@
 # All Restaurants in Chattanooga (Metro), TN-GA, US
 
-> Free BeamStation sample export with 121 rows and masked direct-contact fields.
+> Free BeamStation sample export with 138 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `159236` |
 | Location | Chattanooga, TN-GA |
 | Category | Restaurants |
-| Full dataset size | 1,219 records |
-| Free sample size | 121 records (9.93%) |
-| Last export | 2026-04-28T16:09:05.634991+00:00 |
+| Full dataset size | 1,384 records |
+| Free sample size | 138 records (9.97%) |
+| Last export | 2026-05-06T12:43:59.268786+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-chattanooga-metro-tn-ga-us-sample-159236/releases/download/sample-latest/beamstation_159236_restaurants-us-chattanoogatnga_SAMPLE_DIST.csv) |
 
 ## What is in this sample
